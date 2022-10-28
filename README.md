@@ -1,6 +1,7 @@
 ## Description of Application
 
-This application generates the type and frequency of beathing treatments for a number of patients based on their clinical symptoms and medical history
+RespEvalTreatProtocol is a C++ application that generates the type and frequency of beathing treatments for a number of patients based on 
+their clinical symptoms and medical history
 
 
 
