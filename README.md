@@ -31,7 +31,7 @@ falls out of range
 - If the user types anything other than 'Y' or 'y', the scores of every assessed patient are printed in a formatted table and their 
 individual treatment plans are displayed underneath the table
 
+![PatientAssessment](https://user-images.githubusercontent.com/104407388/200760363-ea2ede89-ae11-4788-84ae-2e46ad925207.jpg)
 
-![PatientAssessment](https://user-images.githubusercontent.com/104407388/198703432-5ade1dae-dfc5-4302-b400-7f7863ef828b.jpg)
+![PatientTreatment](https://user-images.githubusercontent.com/104407388/200760378-4e9f09a0-5769-48e5-befc-d0fa4f4f3f37.jpg)
 
-![PatientReport](https://user-images.githubusercontent.com/104407388/198703444-873acf47-0fc4-4117-a9ce-e7e84ff1adc1.jpg)
