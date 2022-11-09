@@ -24,7 +24,7 @@ their clinical symptoms and medical history
 - For each category, the patient is scored using a random number generator and error messages are presented if the random number 
 falls out of range
 
-- The calculated score for each patient determines the type of breathing treatments they will receive and how frequent they will receive them
+- The estimated total score for each patient determines the type of breathing treatments they will receive and how frequent they will receive them
 
 - If the user types 'Y' or 'y', a different patient is presented with a new set of respiratory conditions
 
