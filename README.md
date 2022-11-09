@@ -21,7 +21,7 @@ their clinical symptoms and medical history
 
 - After running the application, a patient's ID, vital signs, clinical symptoms, oxygen device, and medical history are displayed
 
-- For each respiratory condition, the patient is scored using a random number generator and error messages are presented if the random number 
+- For each category, the patient is scored using a random number generator and error messages are presented if the random number 
 falls out of range
 
 - The total score for each patient determines the type of breathing treatments they will receive and how frequent they will receive them
